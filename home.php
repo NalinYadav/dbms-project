@@ -31,7 +31,7 @@
                           <td><?php echo $row["course_name"];?></td>
                           <td><?php echo $row["sphnumber"];?></td>
                           <td>
-                               <a href="edit.php">edit</a>  <a href="delete.php">delete</a>
+                               <a href="edit.php?id=<?php echo $row['sid'];?>">edit</a>  <a href="delete.php?id=<?php echo $row['sid']?>;">delete</a>
 
                           </td>
 

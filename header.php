@@ -20,12 +20,6 @@
               <a href="add.php">Add Record</a>
             </li>
             <li>
-              <a href="home.php">Update</a>
-            </li>
-            <li>
-              <a href="delete.php">Delete</a>
-            </li>
-            <li>
               <a href="home.php">Log out</a>
             </li>
           </ul>
